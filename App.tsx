@@ -448,7 +448,7 @@ function App() {
 
               {/* Phone */}
               <motion.a 
-                href="tel:+5492231234567"
+                href="tel:+5491159697198"
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
