@@ -408,7 +408,7 @@ function App() {
             <div className="grid md:grid-cols-3 gap-8">
               {/* WhatsApp */}
               <motion.a 
-                href="https://wa.me/5492231234567" // Placeholder link, can be updated later
+                href="https://wa.me/5491159697198" // Placeholder link, can be updated later
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, y: 20 }}
