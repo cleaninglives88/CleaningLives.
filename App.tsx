@@ -106,9 +106,9 @@ function App() {
 
               <div className="mt-auto pt-8 border-t border-slate-100">
                 <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">Contacto Directo</p>
-                <a href="tel:+5492231234567" className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors mb-3">
+                <a href="tel:+54959697198" className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors mb-3">
                   <Phone className="w-4 h-4" />
-                  <span className="text-sm">+54 9 223 123 4567</span>
+                  <span className="text-sm">+54 9 11 5969 7198</span>
                 </a>
                 <a href="mailto:cleaninglives88@gmail.com" className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors">
                   <Mail className="w-4 h-4" />
