@@ -482,7 +482,7 @@ function App() {
               <p className="text-slate-400 mb-8 font-light leading-relaxed">
                 Buscamos personas proactivas, responsables y con vocación de servicio. Ofrecemos capacitación constante, un excelente clima laboral y condiciones de contratación transparentes.
               </p>
-              <a 
+                            <a 
   href="mailto:cleaninglives88@gmail.com?subject=Postulación%20CV%20-%20Cleaning%20Lives&body=Hola%20Cleaning%20Lives,%0D%0A%0D%0AAdjunto%20mi%20CV%20para%20ser%20considerado%20en%20futuras%20búsquedas.%0D%0A%0D%0AMuchas%20gracias." 
   className="inline-block bg-white text-slate-900 hover:bg-slate-100 px-8 py-3 rounded-lg font-medium transition-colors text-sm tracking-wide">
   Enviar CV
