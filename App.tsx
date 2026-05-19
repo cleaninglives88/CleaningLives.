@@ -576,13 +576,12 @@ function App() {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-start gap-12 mb-16">
             <div className="max-w-sm">
-              <div className="flex items-center gap-3 mb-6">
-                {/* Footer Logo - Reverted to Sparkles Icon */}
-                <img src="/logo.png" alt="Cleaning Lives" className="h-12 w-auto" />
-                <span className="text-xl font-bold text-slate-900">Cleaning Lives</span>
-              </div>
-                <span className="text-2xl font-bold text-white tracking-tight">Cleaning Lives</span>
-              </div>
+             <div className="flex items-center gap-3 mb-6">
+  <img src="/logo.png" alt="Cleaning Lives" className="h-12 w-auto" />
+  <span className="text-2xl font-bold text-white tracking-tight">
+    Cleaning Lives
+  </span>
+</div>
               <p className="text-slate-400 font-light leading-relaxed">
                 Redefiniendo la experiencia en espacios corporativos y consorcios a través de la pulcritud y el servicio excepcional. Elevando el estándar de la industria.
               </p>
