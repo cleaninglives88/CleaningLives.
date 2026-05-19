@@ -14,7 +14,6 @@ import {
   Mail,
   Phone,
   Menu,
-  X,
   Eye,
   BadgeCheck,
   HeartHandshake,
