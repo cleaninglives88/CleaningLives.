@@ -476,9 +476,7 @@ function App() {
             <div className="text-center">
               <div className="flex items-center justify-center gap-2 mb-4">
                 {/* Footer Logo - Reverted to Sparkles Icon */}
-                <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-cyan-400 rounded-lg flex items-center justify-center shadow-sm">
-                  <Sparkles className="w-5 h-5 text-white" />
-                </div>
+                <img src="/logo.png" alt="Cleaning Lives" className="h-12 w-auto" />
                 <span className="text-xl font-bold text-slate-900">Cleaning Lives</span>
               </div>
               <p className="text-slate-500 max-w-xs mx-auto font-light">
